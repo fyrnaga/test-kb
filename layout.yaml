@@ -1,0 +1,7 @@
+categories:
+- category: welcome
+  articles:
+      - newworld.md
+- category: special
+  articles:
+      - specialevent.md
